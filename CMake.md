@@ -20,13 +20,13 @@ set(CMAKE_CXX_STANDARD 11)
 
 > 指定编译生成方式
 
-如希望生成 Windows 的 nmake 编译，可以：
+Windows NMake：
 
 ```bash
 cmake -G "NMake Makefiles" ..
 ```
 
-如生成 Windows 的某个版本的 Visual Studio 工程：
+Windows Visual Studio 17 2022：
 
 ```bash
 cmake -G "Visual Studio 17 2022" .
