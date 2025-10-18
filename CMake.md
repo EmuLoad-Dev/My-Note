@@ -20,13 +20,13 @@ set(CMAKE_CXX_STANDARD 11)
 
 > 指定编译生成方式
 
-Windows NMake：
+Windows NMake
 
 ```bash
 cmake -G "NMake Makefiles" ..
 ```
 
-Windows Visual Studio 17 2022：
+Windows Visual Studio 17 2022
 
 ```bash
 cmake -G "Visual Studio 17 2022" .
