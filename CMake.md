@@ -5,7 +5,10 @@ https://cmake.org/download/
 > 简单示例
 
 ```cmake
+# 指定 cmake 版本
 cmake_minimum_required(VERSION 3.10)
+
+# 项目名，编程语言
 project(MyProject CXX)
 
 # 添加源文件
