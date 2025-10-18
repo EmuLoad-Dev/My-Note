@@ -1,6 +1,8 @@
 > Mac 下的 ndk-build 一般主目录位置。
 
+```
 /Users/[username]/Library/Android/sdk/ndk
+```
 
 > 检测 so 文件是否是 16KB 对齐的命令行。
 
