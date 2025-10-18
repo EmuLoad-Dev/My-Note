@@ -4,6 +4,8 @@
 /Users/[username]/Library/Android/sdk/ndk
 ```
 
+---
+
 > 检测 so 文件是否是 16KB 对齐的命令行。
 
 ```bash
@@ -19,3 +21,5 @@ LOAD off    0x000000000005c150 vaddr 0x0000000000064150 paddr 0x0000000000064150
 ```
 
 最右侧写着 align 2**14，那说明是按 16KB 对齐。
+
+---
