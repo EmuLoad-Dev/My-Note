@@ -9,3 +9,9 @@ https://cmake.org/download/
 ```bash
 cmake -G "NMake Makefiles" ..
 ```
+
+如生成 Windows 的某个版本的 Visual Studio 工程：
+
+```bash
+cmake -G "Visual Studio 17 2022" .
+```
