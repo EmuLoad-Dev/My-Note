@@ -1,3 +1,18 @@
+> 生成 release 版本的 so。
+
+1. 用 ndk-build 命令行指定
+
+```bash
+ndk-build NDK_BUILD_TYPE=release
+```
+
+2. 在 Application.mk 文件直接指定。
+
+```cmake
+# Application.mk 文件内
+APP_OPTIM := release
+```
+
 > Mac 下的 ndk-build 一般主目录位置。
 
 ```
