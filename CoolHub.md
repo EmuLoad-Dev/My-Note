@@ -65,17 +65,4 @@ https://bincheck.io/
 
 该网站是一个专门生成信用卡类数据和校验数据合法性的工具网站，它支持国际化多语言，对英语等不太适应的朋友可以切换中文。
 
-> shannote
-
-https://shannote.com/tool/credit-card-generator.html
-
-这是一个关于出海的网站，上述的链接是网站中的一个工具单页。
-
-> yyzqteam
-
-https://www.yyzqteam.com/
-
-该网站是一个聚合类工具网站，它里面包括了大量各种类别的工具，如AI工具、编程助手、站长工具、小娱乐工具等等。例如：生肖运势、双色球选号等等；
-
-
 
