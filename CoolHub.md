@@ -30,9 +30,11 @@ https://ish.junioralive.in/
 
 AI 聚合。
 
-> fogsight: AI 生成动画短片 Agent
+> fogsight
 
 https://github.com/fogsightai/fogsight
+
+AI 生成动画短片 Agent。
 
 ## 各种MCP
 > Apple MCP
