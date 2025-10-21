@@ -18,10 +18,23 @@ https://github.com/nook-browser/Nook
 
 https://github.com/spieglt/FlyingCarpet
 
-> AI 生成动画短片 Agent
+> Umi-OCR
+
+https://github.com/hiroi-sora/Umi-OCR
+
+# AI
+
+> junioralive
+
+https://ish.junioralive.in/
+
+AI 聚合。
+
+> fogsight: AI 生成动画短片 Agent
 
 https://github.com/fogsightai/fogsight
 
+## 各种MCP
 > Apple MCP
 
 https://github.com/supermemoryai/apple-mcp
@@ -29,10 +42,6 @@ https://github.com/supermemoryai/apple-mcp
 > Feishu MCP
 
 https://github.com/cso1z/Feishu-MCP
-
-> Umi-OCR
-
-https://github.com/hiroi-sora/Umi-OCR
 
 # 数据生成
 
