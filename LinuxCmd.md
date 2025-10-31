@@ -18,6 +18,6 @@ vim ~/.zshrc
 
 接下来仅举例
 
-```zshrc
+```bash
 export PATH="/opt/homebrew/opt/icu4c/sbin:$PATH"
 ```
