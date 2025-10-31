@@ -9,3 +9,15 @@ zip -e archive.zip file.txt
 ```bash
 shasum -a 256 "README.md"
 ```
+
+> 配置环境变量
+
+```bash
+vim ~/.zshrc
+```
+
+接下来仅举例
+
+```zshrc
+export PATH="/opt/homebrew/opt/icu4c/sbin:$PATH"
+```
